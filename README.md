@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# OrangeLime
 
 A clean and simple Wordpress template based on FoundationPress.
 
